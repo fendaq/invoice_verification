@@ -1,4 +1,4 @@
 require 'rubygems'
-require './lib/app'
+require './app'
 
 run(Cuba)
